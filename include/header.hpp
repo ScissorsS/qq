@@ -1,4 +1,4 @@
-// Copyright 2019 dimakirol <file>
+// Copyright 2019 ScissorsS <file>
 
 #ifndef INCLUDE_HEADER_HPP_
 #define INCLUDE_HEADER_HPP_
